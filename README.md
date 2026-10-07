@@ -8,7 +8,7 @@
 A machine learning project that predicts **customer churn** using classification models. Built with scikit-learn, this project analyzes telecom customer data to identify customers likely to leave, enabling proactive retention strategies.
   
 ---
- 
+  
 ## 📌 Key Features
 
 - **Exploratory Data Analysis** — Visual exploration of churn patterns across customer demographics, services, and billing  
