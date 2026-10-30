@@ -9,7 +9,7 @@ A machine learning project that predicts **customer churn** using classification
    
 ---
   
-## 📌 Key Features
+## 📌 Key Features 
   
 - **Exploratory Data Analysis** — Visual exploration of churn patterns across customer demographics, services, and billing  
 - **Data Preprocessing Pipeline** — Automated handling of categorical encoding (OneHotEncoder) and numerical scaling (StandardScaler)
